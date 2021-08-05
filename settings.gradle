@@ -1,0 +1,2 @@
+rootProject.name = "dice_for_board_game"
+include ':app'
